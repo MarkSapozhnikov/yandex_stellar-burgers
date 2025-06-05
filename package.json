@@ -5,8 +5,8 @@
   "private": true,
   "homepage": "https://julfy-bs.github.io/stellar-burgers",
   "author": {
-    "name": "Bogdan Sutuzhko",
-    "email": "julfy-bs@yandex.ru"
+    "name": "Mark Sapozhnikov",
+    "email": "sapozhnikovmark@yandex.ru"
   },
   "scripts": {
     "start": "react-scripts start",
